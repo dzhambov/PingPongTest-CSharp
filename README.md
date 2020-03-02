@@ -10,8 +10,8 @@ A web application that takes a number from a user and returns a range of numbers
 ## Specifications
 | Behaviors | Input | Output |
 | :--------:| :-----| :----- |
-| Program checks the input is number | User should input number | If input is number, it is true |
-| If input is number, program display the range of the number | User inputs a number | The range of the number |
+| Program checks if the input is number | User input is K | If input is different than a number, program returns "Please enter a number!" |
+| If input is number, program display the range of the number | User inputs 5 | Program returns range of the numbers between 1 and 5 |
 | Program checks if number is devisible by 3 | User inputs a number | If number is devisible by 3, program displays "Ping" | 
 | Program checks if number is devisible by 5 | User inputs a number | If number is devisible by 5, program displays "Pong" | 
 | Program checks if number is devisible by 3 and 5 | User inputs a number | If number is devisible by 3 and 5, program displays "Ping-Pong" |
